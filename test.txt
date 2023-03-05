@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is CC8A-4B26
+
+ Directory of C:\Users\sabari\Desktop\New folder
+
+03/05/2023  05:41 PM    <DIR>          .
+03/04/2023  07:15 PM    <DIR>          ..
+02/02/2023  10:01 PM            38,878 1099.pdf
+02/02/2023  10:00 PM           100,042 1099_1.pdf
+02/02/2023  10:01 PM            99,003 1099_2.pdf
+03/05/2023  05:41 PM                 0 test.txt
+02/02/2023  10:01 PM            74,856 W2.pdf
+               5 File(s)        312,779 bytes
+               2 Dir(s)  367,134,040,064 bytes free
