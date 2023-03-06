@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is CC8A-4B26
+
+ Directory of C:\Users\sabari\Desktop\New folder
+
+03/05/2023  06:20 PM    <DIR>          .
+03/04/2023  07:15 PM    <DIR>          ..
+03/05/2023  06:20 PM                 0 another.txt
+03/05/2023  05:41 PM               548 test.txt
+               2 File(s)            548 bytes
+               2 Dir(s)  367,151,443,968 bytes free
